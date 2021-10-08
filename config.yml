@@ -1,42 +1,43 @@
 year: '2021'
 site_name:
-  en: Ana Caroline Colombo
-  pt: Ana Caroline Colombo
-site_source: acarolcolombo/caroldoscopio
-site_author: Ana Caroline Colombo
-keywords: bla,meh,yeah
+  en: Ian M. Nesbitt
+site_source: iannesbitt/website
+site_author: Ian Nesbitt
+keywords: 'science, geoscience, geophysics, geomorphology, software, open-source'
 language: en
 site_language_menu:
   "\U0001F1EC\U0001F1E7": /
-  "\U0001F1E7\U0001F1F7": /pt
 site_menu:
   en:
     Home: /
     About: /#about
-    Stories: /#stories
+    Posts: /#posts
     Contact: /#contact
-  pt:
-    Home: /pt
-    Sobre: /pt/#about
-    Estórias: /#stories
-    Contato: /pt/#contact
 contact:
   links:
   - icon: fas fa-envelope
-    text: contact@acarolcolombo.com
-    url: mailto:contact@acarolcolombo.com
+    text: ian.nesbitt@gmail.com
+    url: mailto:ian.nesbitt@gmail.com
+  - icon: fab fa-orcid
+    text: ORCiD
+    url: https://orcid.org/0000-0001-5828-6070
+  - icon: fas fa-book
+    text: Google Scholar
+    url: https://scholar.google.com/citations?user=voGZIlIAAAAJ&hl=en
+  - icon: fab fa-researchgate
+    text: ResearchGate
+    url: https://www.researchgate.net/profile/Ian_Nesbitt3
   - icon: fab fa-linkedin
     text: LinkedIn
-    url: https://linkedin.com/in/acarolcolombo
+    url: https://linkedin.com/in/iannesbitt
   - icon: fab fa-github
-    text: 'GitHub: @acarolcolombo'
-    url: https://github.com/acarolcolombo
+    text: 'GitHub: @iannesbitt'
+    url: https://github.com/iannesbitt
   - icon: fab fa-twitter
-    text: 'Twitter: @acarolcolombo'
-    url: https://twitter.com/acarolcolombo
+    text: 'Twitter: @paleosurface'
+    url: https://twitter.com/iannesbitt
   title:
     en: Contact
-    pt: Contato
 ignore:
   - README.md
   - Makefile

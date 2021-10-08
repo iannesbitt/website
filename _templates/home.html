@@ -6,15 +6,15 @@
     {{ page.body | safe }}
 
     {# Create a list of pages from the stories folder #}
-    {% set stories = [] %}
+    {% set posts = [] %}
     {% for id, page in site.items() %}
-      {% if page.parent == "stories" %}
-        {% do stories.append(page) %}
+      {% if page.parent == "posts" %}
+        {% do posts.append(page) %}
       {% endif %}
     {% endfor %}
 
     <ul>
-    {% for page in stories|sort(attribute="date", reverse=True) %}
+    {% for page in posts|sort(attribute="date", reverse=True) %}
         <li>
             <a href="/{{ page.path }}">{{ page.title }}</a>
             <span class="story-date">({{ page.date }})</span>

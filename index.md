@@ -1,6 +1,6 @@
 ---
 title: Home
-banner: assets/banners/plant-with-web.jpg
+banner: assets/banners/allanhills.jpg
 template: home.html
 ---
 
@@ -9,37 +9,23 @@ template: home.html
 <div class="flex-container">
 <div id="about-text">
 
-Hi, I'm Ana Caroline Colombo, Brazilian, biologist, educator, and proud mother living in the United Kingdom.
+Hi, I'm Ian Nesbitt, geophysicist, educator, and software developer living in the United States.
 
-Exploring different subjects and finding a connection among them excites me.
-Being open to opportunities has given me the chance to explore distinct areas of biology such as neuroscience, behaviour, microbiology, and botany. Also, this has inspired me to learn more about creative writing and programming, which is what I have been trying to focus on lately. Approaching the learning and development process through teaching internships, scientific communication and outreach, conservation efforts, and the design of educational resources have changed my perspective on education at all levels.
+Exploring places and discovering their geological, cultural, and political economic history excites me.
+Patience and good fortune have given me the chance to explore various areas of geoscience such as geophysics, geomorphology, glaciology, climate science, numerical modeling, and geodynamics. I have also had on-the-job experience as a software developer and unix technician, a marine surveyor, and a member of an Antarctic research expedition. Being able to teach geoscience to both undergraduate and high school students has given me an appreciation for place-based, experiential, collaborative, and interactive learning environments.
 
-The chance to live and work abroad has allowed me to experience cultural and political ideas; which has furthered my sense of respect, admiration, and acceptance. Bonds with distinct people and ways of thinking makes our own story more meaningful. I have been trying to nurture and value these relationships throughout my life.
+The experience of living and working abroad has allowed me to experience vastly different cultural and political environments than those I grew up with, which has developed my sense of admiration of, solidarity with, and respect for others. My work with climate science and glaciology, as well as people and places directly affected by climate change has furthered my resolve to defend those people and places from dire futures we now face.
 
-Although many of my hobbies are nature-related, such as hiking and camping, I also enjoy the simple pleasures of life like a great meal, an engaging conversation, and a lovely dance.
+While the jobs I've had are demanding, I try not to let them rule my life. I enjoy various outdoor pursuits including skiing of all types, cycling, running, soccer/football, and running. However I also enjoy the simple joy of hot tea or coffee, a savory pesto or a sharp cheese, and the sweat of a beautiful run or a vigorous dance at a wedding celebration.
 
-Becoming a mother has taught me a lot about myself and my priorities. I have never been better at organising my time and turning my ideas into actions.
+If you would like to know more about my career, please have a look at <a href="https://github.com/iannesbitt/cv/raw/main/_output/cv.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">my CV</a>.
 
-This website is a reflection of these experiences and I will be building it slowly. Bear with me.
-
-If you would like to know a bit more about my career, please have a look at <a href="https://www.acarolcolombo.com/cv/accolombo-cv-english.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">my CV.</a>
+My published work can be found at [Google Scholar](https://scholar.google.com/citations?user=voGZIlIAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-5828-6070), and [ResearchGate](https://www.researchgate.net/profile/Ian_Nesbitt3). Much of my software lives on [Github](https://github.com/iannesbitt).
 
 </div>
 <div id="about-image">
-<img title="Photo of me looking up at fall leaves in a park." src="/assets/about-image-b&w-yellow.png">
+<img title="Photo of me in an ice core trench in Antarctica." src="/assets/antarctic_portrait.png">
 </div>
 </div>
 
-<h2 id="stories">Stories</h2>
-
-Stories can change perspectives, economies, and beliefs.
-<br>
-Each storyteller can modify the shape of a story.
-<br>
-Each listener can interpret it based on their own unique background.
-
-This is the beauty of a story.
-<br>
-As in a book, it is always there unchanging but full of meaning.
-<br>
-As in folklore, it is in constant change but with the same essence.
+<h2 id="posts">Posts</h2>

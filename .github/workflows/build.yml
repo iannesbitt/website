@@ -28,15 +28,15 @@ jobs:
       - name: Add extra files for GitHub pages
         run: |
           touch _build/.nojekyll
-          echo "www.acarolcolombo.com" > _build/CNAME
+          echo "www.iannesbitt.org" > _build/CNAME
 
-      - name: Push to acarolcolombo.github.io
+      - name: Push to iannesbitt.github.io
         if: success() && github.event_name == 'push'
         # Don't use tags: https://julienrenaux.fr/2019/12/20/github-actions-security-risk/
         uses: peaceiris/actions-gh-pages@bbdfb200618d235585ad98e965f4aafc39b4c501
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          external_repository: acarolcolombo/acarolcolombo.github.io
+          external_repository: iannesbitt/iannesbitt.github.io
           publish_branch: master
           publish_dir: ./_build
           # Only keep the latest commit to avoid bloating the repository

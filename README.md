@@ -1,12 +1,12 @@
 # My personal website
 
-## Created with Nēnē and in collaboration with @leouieda.
+## Created with Nēnē
 
-Website: https://www.acarolcolombo.com
+Website: https://www.iannesbitt.org
 
 Nēnē: https://nene.leouieda.com
 
-Github action status: ![build-html](https://github.com/acarolcolombo/caroldoscopio/workflows/build-html/badge.svg)
+Github action status: ![build-html](https://github.com/iannesbitt/website/workflows/build-html/badge.svg)
 
 ## Notes:
 
