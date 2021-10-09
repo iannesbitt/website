@@ -28,7 +28,7 @@ jobs:
       - name: Add extra files for GitHub pages
         run: |
           touch _build/.nojekyll
-          echo "www.iannesbitt.org" > _build/CNAME
+          echo "iannesbitt.org" > _build/CNAME
 
       - name: Push to iannesbitt.github.io
         if: success() && github.event_name == 'push'
