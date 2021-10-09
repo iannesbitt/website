@@ -20,7 +20,7 @@ While the jobs I've had are demanding, I try not to let them rule my life. I enj
 
 If you would like to know more about my career, please have a look at <a href="https://github.com/iannesbitt/cv/raw/main/_output/cv.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">my CV</a>.
 
-My published work can be found at [Google Scholar](https://scholar.google.com/citations?user=voGZIlIAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-5828-6070), and [ResearchGate](https://www.researchgate.net/profile/Ian_Nesbitt3). Much of my software lives on [Github](https://github.com/iannesbitt).
+My published work can be found at [Google Scholar](https://scholar.google.com/citations?user=voGZIlIAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0001-5828-6070), and [ResearchGate](https://www.researchgate.net/profile/Ian_Nesbitt3). Much of my software lives on [GitHub](https://github.com/iannesbitt).
 
 </div>
 <div id="about-image">
