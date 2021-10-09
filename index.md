@@ -30,4 +30,4 @@ My published work can be found at [Google Scholar](https://scholar.google.com/ci
 
 <h2 id="posts">Posts</h2>
 
-Here I post work projects, stories, or opinions that don't make it to publication.
+Here I post work projects, stories, or discussions that don't make it to publication.
