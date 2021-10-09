@@ -11,8 +11,8 @@ template: home.html
 
 Hi, I'm Ian Nesbitt, geophysicist, educator, and software developer living in the United States.
 
-Exploring places and discovering their geologic, cultural, and political-economy history excites me.
-Patience and good fortune have given me the chance to explore various areas of geoscience such as geophysics, geomorphology, glaciology, climate science, numerical modeling, and geodynamics. I have also had on-the-job experience as a software developer and unix technician, a marine surveyor, and a member of an Antarctic research expedition. Being able to teach geoscience to both undergraduate and high school students has given me an appreciation for place-based, experiential, collaborative, and interactive learning environments.
+Exploring places and discovering their geologic, cultural, and political economy history excites me.
+Patience and good fortune have given me the chance to explore various areas of geoscience such as geophysics, geomorphology, glaciology, climate science, numerical modeling, and geodynamics. I have also had on-the-job experience as a software developer and unix technician, a marine surveyor and geophysicist, and a member of an Antarctic research expedition. Being able to teach geoscience to both undergraduate and high school students has given me an appreciation for place-based, experiential, collaborative, and interactive learning environments.
 
 The experience of living and working abroad has allowed me to experience vastly different cultural and political environments than those I grew up with, which has developed my sense of admiration of, solidarity with, and respect for others. My work with climate science and glaciology, as well as people and places directly affected by climate change has furthered my resolve to defend those people and places from dire futures we now face.
 
