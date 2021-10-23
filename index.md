@@ -24,7 +24,7 @@ My published work can be found at [Google Scholar](https://scholar.google.com/ci
 
 </div>
 <div id="about-image">
-<img title="Photo of me in an ice core trench in Antarctica." src="/assets/antarctic_portrait.png">
+<img title="Sitting with a core box in an ice core trench in Allan Hills, Antarctica." src="/assets/antarctic_portrait.png">
 </div>
 </div>
 
