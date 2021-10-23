@@ -36,8 +36,14 @@ contact:
   - icon: fab fa-twitter
     text: 'Twitter: @paleosurface'
     url: https://twitter.com/iannesbitt
+  - icon: fa fa-graduation-cap
+    text: 'Climate Change Institute profile'
+    url: https://climatechange.umaine.edu/people/ian-nesbitt/
+  - icon: fa fa-graduation-cap
+    text: 'School of Earth and Climate Sciences profile'
+    url: https://umaine.edu/earthclimate/people/ian-nesbitt/
   title:
-    en: Contact
+    en: Links
 ignore:
   - README.md
   - Makefile
