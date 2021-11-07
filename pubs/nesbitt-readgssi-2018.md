@@ -1,5 +1,5 @@
 ---
-title: readgssi - an open-source tool to read and plot GSSI ground-penetrating radar data
+title: "readgssi: an open-source tool to read and plot GSSI ground-penetrating radar data"
 authorlist: Nesbitt, Ian M.; Simon, Francois-Xavier; Paulin, Thomas; Shaw, TE
 status: published
 journal: Zenodo
