@@ -4,20 +4,22 @@
 
 {% block content %}
 
-{# Create a list of papers from the pubs folder #}
-{% set nonpubs = [] %}
-{% set pubs = [] %}
-{% for id, page in site.items() %}
-  {% if page.parent == "pubs" %}
-    {% if page.status == "published" %}
-      {% do pubs.append(page) %}
-    {% else %}
-      {% do nonpubs.append(page) %}
+  {# Create a list of papers from the pubs folder #}
+  {% set nonpubs = [] %}
+  {% set pubs = [] %}
+  {% for id, page in site.items() %}
+    {% if page.parent == "pubs" %}
+      {% if page.status == "published" %}
+        {% do pubs.append(page) %}
+      {% else %}
+        {% do nonpubs.append(page) %}
+      {% endif %}
     {% endif %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
 
-{{ page.body | safe }}
+  {{ page.body | safe }}
+
+    <br>
 
     <h2 id="publications">Upcoming work</h2>
 
