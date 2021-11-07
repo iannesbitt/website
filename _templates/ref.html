@@ -1,0 +1,36 @@
+{% extends "page.html" %}
+
+{% block content %}
+
+    <h1>{{ page.title }}</h1>
+    <p>{{ page.authorlist }}</p>
+    <em>{{ page.journal }}</em> <span class="year">({{ page.year }})</span>
+    <p>doi: <a href="https://dx.doi.org/{{ page.doi }}">{{ page.doi | safe }}</a></p>
+    <p><a href="{{ page.pdf }}"><i class="fa fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
+    <br>
+
+    <div class="flex-container">
+
+    <div id="body">
+
+    {{ page.body | safe }}
+
+    </div>
+
+    <div id="abstract">
+    <h2>Abstract</h2>
+
+    {{ page.abstract | safe }}
+    
+    <br><br><br>
+    </div>
+
+    <div id="plaintext-abstract">
+    <h2>Plain-text abstract</h2>
+
+    {{ page.plaintextabstract | safe }}
+
+    </div>
+
+    </div>
+{% endblock %}

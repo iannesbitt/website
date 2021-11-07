@@ -1,0 +1,30 @@
+{% extends "page.html" %}
+
+{%- set language = page.language | default(config.language) -%}
+
+{% block content %}
+    {{ page.body | safe }}
+
+    {# Create a list of papers from the pubs folder #}
+    {% set pubs = [] %}
+    {% for id, page in site.items() %}
+      {% if page.parent == "pubs" %}
+        {% do pubs.append(page) %}
+      {% endif %}
+    {% endfor %}
+
+    <ul>
+    {% for page in pubs|sort(attribute="year", reverse=True) %}
+        <li>
+            <span class="pub-authors">{{ page.authorlist }}</span>
+            <span class="pub-date">({{ page.year }})</span>.
+            <span class="pub-title"><a href="/{{ page.path }}">{{ page.title }}</a></span>.
+            <span class="pub-journal"><em>{{ page.journal }}</em></span>.
+            <span class="pub-volume">{{ page.volume }}</span>,
+            <span class="pub-pages">{{ page.pages }}</span>.
+            <span class="doi">doi:<a href="https://dx.doi.org/{{ page.doi }}">{{ page.doi }}</a></span>
+        </li>
+    {% endfor %}
+    </ul>
+
+{% endblock %}

@@ -31,4 +31,8 @@ My published work can be found at [Google Scholar](https://scholar.google.com/ci
 
 <h2 id="posts">Posts</h2>
 
+<div class="flex-container">
+
 Here I post work projects, stories, or discussions that don't make it to publication.
+
+</div>

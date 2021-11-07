@@ -14,7 +14,7 @@
     {% endfor %}
 
     <ul>
-    {% for page in posts|sort(attribute="date", reverse=True) %}
+    {% for page in posts|sort(attribute="authorlist")|sort(attribute="date", reverse=True) %}
         <li>
             <a href="/{{ page.path }}">{{ page.title }}</a>
             <span class="story-date">({{ page.date }})</span>

@@ -11,6 +11,7 @@ site_menu:
   en:
     Home: /
     About: /#about
+    Publications: /publications.html
     Posts: /#posts
     Contact: /#contact
 contact:
