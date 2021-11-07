@@ -16,6 +16,7 @@
     <ul>
     {% for page in pubs|sort(attribute="year", reverse=True) %}
         <li>
+            <span class="tag-span {{ page.tags }}">{{ page.tags }}</span>
             <span class="pub-authors">{{ page.authorlist }}</span>
             <span class="pub-date">({{ page.year }})</span>.
             <span class="pub-title"><a href="/{{ page.path }}">{{ page.title }}</a></span>.
