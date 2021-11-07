@@ -9,7 +9,7 @@ template: pubs.html
 <div class="flex-container">
 <div id="publications-text">
 
-Publications are listed in chronological order and are presented in APA citation style.
+Publications are listed in alpha-chronological order and are presented in APA citation style.
 
 </div>
 </div>

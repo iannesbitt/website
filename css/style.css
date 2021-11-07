@@ -139,6 +139,11 @@ header a {
     color: purple;
 }
 
+.software {
+    background-color: green;
+    color: lime;
+}
+
 .tag-span {
     margin-top: 0;
     margin-bottom: 0;

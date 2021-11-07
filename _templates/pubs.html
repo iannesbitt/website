@@ -3,20 +3,63 @@
 {%- set language = page.language | default(config.language) -%}
 
 {% block content %}
-    {{ page.body | safe }}
 
-    {# Create a list of papers from the pubs folder #}
-    {% set pubs = [] %}
-    {% for id, page in site.items() %}
-      {% if page.parent == "pubs" %}
-        {% do pubs.append(page) %}
-      {% endif %}
-    {% endfor %}
+{# Create a list of papers from the pubs folder #}
+{% set nonpubs = [] %}
+{% set pubs = [] %}
+{% for id, page in site.items() %}
+  {% if page.parent == "pubs" %}
+    {% if page.status == "published" %}
+      {% do pubs.append(page) %}
+    {% else %}
+      {% do nonpubs.append(page) %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{{ page.body | safe }}
+
+    <h2 id="publications">Upcoming work</h2>
+
+    <div class="flex-container">
+    <div id="publications-text">
+
+    This section contains work that is as yet unpublished (i.e. in prep., in review, or in press).
+
+    </div>
+    </div>
+
+    <ul>
+      {% for page in nonpubs|sort(attribute="status", reverse=True) %}
+          <li>
+            {% for badge in page.tags.split(' ') %}
+              <span class="tag-span {{ badge }}">{{ badge }}</span>
+            {% endfor %}
+              <span class="pub-authors">{{ page.authorlist }}</span>
+              <span class="pub-date">({{ page.status }})</span>.
+              <span class="pub-title"><a href="/{{ page.path }}">{{ page.title }}</a></span>.
+              <span class="pub-journal"><em>{{ page.journal }}</em></span>.
+          </li><br>
+      {% endfor %}
+      </ul>
+  
+
+    <h2 id="publications">Publications</h2>
+
+    <div class="flex-container">
+    <div id="publications-text">
+
+    Publications are listed in chronological order and are presented in APA citation style.
+
+    </div>
+    </div>
 
     <ul>
     {% for page in pubs|sort(attribute="year", reverse=True) %}
         <li>
-            <span class="tag-span {{ page.tags }}">{{ page.tags }}</span>
+          {% for badge in page.tags.split(' ') %}
+            <span class="tag-span {{ badge }}">{{ badge }}</span>
+          {% endfor %}
             <span class="pub-authors">{{ page.authorlist }}</span>
             <span class="pub-date">({{ page.year }})</span>.
             <span class="pub-title"><a href="/{{ page.path }}">{{ page.title }}</a></span>.

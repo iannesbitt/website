@@ -3,10 +3,18 @@
 {% block content %}
 
     <h1>{{ page.title }}</h1>
+  {% for badge in page.tags.split(' ') %}
+    <span class="tag-span {{ badge }}">{{ badge }}</span>
+  {% endfor %}
     <p>{{ page.authorlist }}</p>
-    <em>{{ page.journal }}</em> <span class="year">({{ page.year }})</span>
+    <em>{{ page.journal }}</em> 
+  {% if page.status == "published" %}
+    <span class="year">({{ page.year }})</span>
+  {% else %}
+    <span class="status">({{ page.status }})</span>
+  {% endif %}
     <p>doi: <a href="https://dx.doi.org/{{ page.doi }}">{{ page.doi | safe }}</a></p>
-    <p><a href="{{ page.pdf }}"><i class="fa fa-file-pdf" aria-hidden="true"></i> PDF</a></p>
+    <p><a href="{{ page.link }}"><i class="{{ page.linkicon }}" aria-hidden="true"></i> {{ page.linktext }}</a></p>
     <br>
 
     <div class="flex-container">
