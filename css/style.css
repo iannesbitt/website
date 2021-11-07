@@ -144,6 +144,21 @@ header a {
     color: lime;
 }
 
+.prep {
+    background-color: royalblue;
+    color: #c7c7c7;
+}
+
+.review {
+    background-color: gold;
+    color: olive;
+}
+
+.press {
+    background-color: lightgreen;
+    color: seagreen;
+}
+
 .tag-span {
     margin-top: 0;
     margin-bottom: 0;

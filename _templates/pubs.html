@@ -34,6 +34,7 @@
     <ul>
       {% for page in nonpubs|sort(attribute="status", reverse=True) %}
           <li>
+              <span class="tag-span {{ page.status.split()[1].strip('.') }}">{{ page.status }}</span>
             {% for badge in page.tags.split(' ') %}
               <span class="tag-span {{ badge }}">{{ badge }}</span>
             {% endfor %}

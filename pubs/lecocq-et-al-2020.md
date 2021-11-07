@@ -1,6 +1,6 @@
 ---
 title: Global quieting of high-frequency seismic noise due to COVID-19 pandemic lockdown measures
-authorlist: Lecocq, Thomas; Hicks, Stephen P; Van Noten, Koen; van Wijk, Kasper; Koelemeijer, Paula; De Plaen, Raphael S. M.; Massin, Frédérick; Hillers, Gregor; Anthony, Robert E; ...; Nesbitt, Ian M.; et al.
+authorlist: Lecocq, Thomas; Hicks, Stephen P; Van Noten, Koen; van Wijk, Kasper; Koelemeijer, Paula; De Plaen, Raphael S. M.; Massin, Frédérick; Hillers, Gregor; Anthony, Robert E; ... Nesbitt, Ian M. et al.
 status: published
 journal: Science
 year: 2020
