@@ -181,6 +181,11 @@ header a {
 .fa-ul {
     margin-left: 1.6em !important;
     line-height: 1.7em;
+    list-style-type: circle;
+}
+
+ul.pubs {
+    list-style-type: none; /* Remove bullets */
 }
 
 @media (max-width: 700px) {

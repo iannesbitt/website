@@ -31,7 +31,7 @@
     </div>
     </div>
 
-    <ul>
+    <ul class="pubs">
       {% for page in nonpubs|sort(attribute="status", reverse=True) %}
           <li>
               <span class="tag-span {{ page.status.split()[1].strip('.') }}">{{ page.status }}</span>
@@ -58,7 +58,7 @@
     </div>
     </div>
 
-    <ul>
+    <ul class="pubs">
     {% for page in pubs|sort(attribute="year", reverse=True) %}
         <li>
           {% for badge in page.tags.split(' ') %}
