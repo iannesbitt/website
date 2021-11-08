@@ -7,7 +7,7 @@ template: home.html
 <h2 id="about">About</h2>
 
 <div class="flex-container">
-<div id="about-text">
+<div class="abstract" id="about-text">
 
 Hi, I'm Ian Nesbitt, geophysicist, educator, and software developer living in the United States.
 
