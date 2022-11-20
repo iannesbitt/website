@@ -1,6 +1,6 @@
 ---
 title: Raspberry Shake station management
-banner: assets/banners/thwaites_sph.png
+banner: assets/banners/rsudp_quake.png
 date: 2022-11-19
 tags: post
 template: posts.html
