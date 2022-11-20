@@ -13,14 +13,14 @@ The way I got involved with Raspberry Shake initially was by administering my ow
 
 The first is a station in Williamstown, MA:
 
-<iframe width="500" height="350" src="https://dataview.raspberryshake.org/#/embed/AM/RCB43/00/EHZ"></iframe>
+<iframe width="100%" height="500" src="https://dataview.raspberryshake.org/#/embed/AM/RCB43/00/EHZ"></iframe>
 
 The second is in Clarksburg, MA:
 
-<iframe width="500" height="350" src="https://dataview.raspberryshake.org/#/embed/AM/R6A3B/00/EHZ"></iframe>
+<iframe width="100%" height="500" src="https://dataview.raspberryshake.org/#/embed/AM/R6A3B/00/EHZ"></iframe>
 
 And the third is in the Earth and Climate Science building at the University of Maine:
 
-<iframe width="500" height="350" src="https://dataview.raspberryshake.org/#/embed/AM/R4989/00/SHZ"></iframe>
+<iframe width="100%" height="500" src="https://dataview.raspberryshake.org/#/embed/AM/R4989/00/SHZ"></iframe>
 
 The last station is on the first floor of a building with a basement and a lot of mechanical noise—which makes it somewhat difficult to detect earthquakes, but is instructive for geoscience students.
