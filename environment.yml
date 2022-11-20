@@ -7,3 +7,4 @@ dependencies:
   - pip
   - pip:
     - nene==0.1.1
+    - myst-parser
