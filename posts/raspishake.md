@@ -11,15 +11,17 @@ As a former member of the software development team at [Raspberry Shake](https:/
 
 The way I got involved with Raspberry Shake initially was by administering my own seismic stations. After parting ways with the company, I remain a station administrator for several Shakes. Here are a few—displayed in the style of rsudp, of course.
 
-The first is a station in Williamstown, MA ([RCB43](https://stationview.raspberryshake.org/#/?net=AM&sta=RCB43&lat=42.69416&lon=-73.19853&zoom=9.939)):
+The first and second are side-by-side stations in Williamstown, MA ([RCB43](https://stationview.raspberryshake.org/#/?net=AM&sta=RCB43&lat=42.69416&lon=-73.19853&zoom=9.939) and [R62F7](https://stationview.raspberryshake.org/#/?net=AM&sta=R62F7&lat=42.69416&lon=-73.19853&zoom=9.939)):
 
 <iframe width="100%" height="500" src="https://dataview.raspberryshake.org/#/embed/AM/RCB43/00/EHZ"></iframe>
 
-The second is in Clarksburg, MA ([R6A3B](https://stationview.raspberryshake.org/#/?lat=42.71626&lon=-73.07107&zoom=9.939&net=AM&sta=R6A3B)):
+<iframe width="100%" height="500" src="https://dataview.raspberryshake.org/#/embed/AM/R62F7/00/EHZ"></iframe>
+
+The third is in Clarksburg, MA ([R6A3B](https://stationview.raspberryshake.org/#/?lat=42.71626&lon=-73.07107&zoom=9.939&net=AM&sta=R6A3B)):
 
 <iframe width="100%" height="500" src="https://dataview.raspberryshake.org/#/embed/AM/R6A3B/00/EHZ"></iframe>
 
-And the third is in the Earth and Climate Science building at the University of Maine ([R4989](https://stationview.raspberryshake.org/#/?lat=44.88652&lon=-68.66711&zoom=9.939&net=AM&sta=R4989)):
+And the fourth is in the Earth and Climate Science building at the University of Maine ([R4989](https://stationview.raspberryshake.org/#/?lat=44.88652&lon=-68.66711&zoom=9.939&net=AM&sta=R4989)):
 
 <iframe width="100%" height="500" src="https://dataview.raspberryshake.org/#/embed/AM/R4989/00/SHZ"></iframe>
 
