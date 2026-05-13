@@ -1,7 +1,7 @@
 ---
 title: "The A-KBS Arctic Knowledge Based System: Science Gateway Integration for Exascale Arctic Data Processing and Geospatial Feature Prediction"
 authorlist: Meisam Shayeghmoradi; Wilcox, Andrew; Parker, Sheridan; Bergstrom, Aaron; Nesbitt, Ian; Kaabouch, Naima; Pasch, Timothy
-status: preprint
+status: in review
 journal: ESS Open Archive
 doi: 10.22541/essoar.177292734.41397214/v1
 link: https://doi.org/10.22541/essoar.177292734.41397214/v1
