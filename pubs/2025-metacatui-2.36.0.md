@@ -1,6 +1,6 @@
 ---
 title: "MetacatUI 2.36.0"
-authorlist: Jones, Matthew B.; Jones, Chris; Walker, Lauren; Thiessen-Bock, Robyn; Leinfelder, Ben; Slaugher, Peter; Mecum, Bryce; Nenuji, Rushiraj; Elbashandy, Hasham; Hendrix, Valerie et al.
+authorlist: Jones, Matthew B.; Jones, Chris; Walker, Lauren; Thiessen-Bock, Robyn; Leinfelder, Ben; Slaugther, Peter; Mecum, Bryce; Nenuji, Rushiraj; Elbashandy, Hasham; Hendrix, Valerie et al.
 status: published
 journal: Arctic Data Center
 year: 2025
