@@ -24,6 +24,7 @@ My published work can be found [here](/publications.html) or in the [aggregators
 
 </div>
 <div id="about-image">
+<img title="Headshot" src="/assets/headshot.jpg">
 <img title="Sitting with a core box in an ice core trench in Allan Hills, Antarctica. Photo: Austin Carter" src="/assets/antarctic_portrait.png">
 <img title="Performing a ground-penetrating radar survey of a sand bar downstream of the Sibley Railroad Bridge in Sibley, MO. Photo: Matt Art" src="/assets/sibley.jpg">
 </div>
