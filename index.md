@@ -9,7 +9,7 @@ template: home.html
 <div class="flex-container">
 <div class="abstract" id="about-text">
 
-Hi, I'm Ian Nesbitt, geophysicist, educator, and software developer living in the United States.
+Hi, I'm Ian Nesbitt, software developer, educator, and geophysicist living in the United States.
 
 Exploring places and discovering their geologic, cultural, and political economy history excites me.
 Patience and good fortune have given me the chance to explore various areas of geoscience such as geophysics, geomorphology, glaciology, climate science, numerical modeling, and geodynamics. I have also had on-the-job experience as a software developer and unix technician, a marine surveyor and geophysicist, and a member of an Antarctic research expedition. Being able to teach geoscience to both undergraduate and high school students has given me an appreciation for place-based, experiential, collaborative, and interactive learning environments.
@@ -32,10 +32,10 @@ My published work can be found [here](/publications.html) or in the [aggregators
 </div>
 </div>
 
-<h2 id="posts">Posts</h2>
+<!-- <h2 id="posts">Posts</h2>
 
 <div class="flex-container">
 
 Here I post work projects, stories, or discussions that don't make it to publication.
 
-</div>
+</div> -->
