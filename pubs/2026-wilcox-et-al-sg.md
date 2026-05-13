@@ -1,5 +1,5 @@
 ---
-title: The arctic knowledge-based system: Science gateway integration for petascale arctic data processing and geospatial feature prediction
+title: "The arctic knowledge-based system: Science gateway integration for petascale arctic data processing and geospatial feature prediction"
 authorlist: Andrew Wilcox; Shayeghmoradi, Meisam; Miller, Stephen; Nesbitt, Ian; Pogalla, Saisri; Ahajjam, Aymane; McKee, Walker; Parker, Sheridan; Johnson, Matthew; Aaron Bergstrom et al.
 status: published
 journal: Applied Computing and Geosciences
