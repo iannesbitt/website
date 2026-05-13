@@ -18,6 +18,8 @@ Living and working abroad (Panama, Antarctica, New Zealand, Greenland) has allow
 
 My current work involves strengthening science through operationalizing the <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR</a> principles and promoting <a href="https://www.gida-global.org/careprinciples" target="_blank">CARE</a> principles in open scientific data. I help expand the <a href="https://dataone.org" target="_blank">DataONE federation</a> and unified scientific dataset searchability by promoting metadata interoperability and interconnectivity between scientific data repositories. The net result is broader access to open scientific data for researchers to be able to produce better and more comprehensive scientific research.
 
+When I'm not writing software, I also work as a coach of the (as of 2026) back-to-back Massachusetts State Champion Boys' Nordic ski team at Mount Greylock Regional School.
+
 While the jobs I've had are demanding, I try not to let them rule my life. I enjoy various outdoor pursuits including skiing of all types, cycling, running, soccer/football, and frisbee sports. However I also enjoy the simple joy of hot tea or coffee, a savory pesto or a sharp cheese, and the sweat of a beautiful run or a vigorous dance at a wedding celebration.
 
 If you would like to know more about my career, please have a look at <a href="https://github.com/iannesbitt/cv/raw/main/_output/cv.pdf" target="_blank" type="application/pdf" rel="external noopener noreferrer">my CV</a>.
