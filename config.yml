@@ -13,7 +13,7 @@ site_menu:
     About: /#about
     Publications: /publications.html
     CV: https://github.com/iannesbitt/cv/raw/main/_output/cv.pdf
-    Posts: /#posts
+    #Posts: /#posts
     Contact: /#contact
 contact:
   links:
