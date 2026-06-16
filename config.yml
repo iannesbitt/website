@@ -32,7 +32,7 @@ contact:
   - icon: fab fa-linkedin
     text: LinkedIn
     url: https://www.linkedin.com/in/ianmnesbitt
-  - icon: fas fa-tower-broadcast
+  - icon: fa fa-tower-broadcast
     text: 'Rail Radio Feed'
     url: https://www.broadcastify.com/listen/feed/47153
   - icon: fab fa-github
