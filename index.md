@@ -9,7 +9,7 @@ template: home.html
 <div class="flex-container">
 <div class="abstract" id="about-text">
 
-Hi, I'm Ian Nesbitt, software developer, educator, and geophysicist living in the United States.
+Hi, I'm Ian Nesbitt, software developer, educator, and geophysicist living in the northeastern United States.
 
 Exploring places and discovering their geologic, cultural, and political economy history excites me.
 Patience and good fortune have given me the chance to explore various areas of geoscience such as geophysics, geomorphology, glaciology, climate science, numerical modeling, and geodynamics. I have also had on-the-job experience as a software developer and unix technician, a marine surveyor and geophysicist, and a member of an Antarctic research expedition. Being able to teach geoscience to both undergraduate and high school students has given me an appreciation for place-based, experiential, collaborative, and interactive learning environments.
@@ -18,7 +18,7 @@ Living and working abroad (Panama, Antarctica, New Zealand, Greenland) has allow
 
 My current work involves strengthening science through operationalizing the <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR</a> principles and promoting <a href="https://www.gida-global.org/careprinciples" target="_blank">CARE</a> principles in open scientific data. I help expand the <a href="https://dataone.org" target="_blank">DataONE federation</a> and unified scientific dataset searchability by promoting metadata interoperability and interconnectivity between scientific data repositories. The net result is broader access to open scientific data for researchers to be able to produce better and more comprehensive scientific research.
 
-When I'm not writing software, I also work as a coach of the (as of 2026) back-to-back Massachusetts State Champion Boys' Nordic ski team at Mount Greylock Regional School.
+When I'm not writing software, I also work as a coach of the (as of 2026) back-to-back Massachusetts State Champion Boys' Nordic ski team at Mount Greylock Regional School. In my somewhat sparse spare time, I am a train enthusiast and operate a [railroad radio broadcast feed](https://www.broadcastify.com/listen/feed/47153) that monitors traffic on the freight main line and industrial spur nearby.
 
 While the jobs I've had are demanding, I try not to let them rule my life. I enjoy various outdoor pursuits including skiing of all types, cycling, running, soccer/football, and frisbee sports. However I also enjoy the simple joy of hot tea or coffee, a savory pesto or a sharp cheese, and the sweat of a beautiful run or a vigorous dance at a wedding celebration.
 
